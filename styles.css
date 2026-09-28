@@ -13,5 +13,21 @@ body {
 .site-header {
     background-color: lightsteelblue;
     padding: 30px;
-    color:ghostwhite
+    color:ghostwhite;
+    margin-bottom: 20px;
+}
+
+.nav-links {
+    color: ghostwhite;
+}
+
+.main-content {
+    background-color:lightslategrey;
+    padding: 30px;
+}
+
+.site-footer {
+    background-color:silver;
+    padding: 30px;
+    margin-top: 20px;
 }
