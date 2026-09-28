@@ -1,0 +1,17 @@
+html {
+    background-color: papayawhip;
+}
+
+body {
+    margin: 0;
+}
+
+.page-name {
+    margin: 0;
+}
+
+.site-header {
+    background-color: lightsteelblue;
+    padding: 30px;
+    color:ghostwhite
+}
