@@ -21,6 +21,20 @@ body {
     color: ghostwhite;
 }
 
+.nav-links:hover {
+    background-color: aliceblue;
+    color: black;
+    padding: 10px;
+}
+
+.nav-links:active {
+    background-color: burlywood;
+}
+
+.nav-links:focus {
+    font-size: 30px;
+}
+
 .main-content {
     background-color:lightslategrey;
     padding: 30px;
